@@ -1,4 +1,4 @@
-[![MasterHead]()]()
+![Screenshot 2024-03-10 050507](https://github.com/Kokata23/Kokata23/assets/123099517/6f1b99e5-af84-4839-85e4-7f8f0bad533d)
 <h1 align="center">Hi 👋, I'm Nikola Filchev</h1>
 <h3 align="center">Backend Python developer</h3>
 <img width="423" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" alt="">
